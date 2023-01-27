@@ -40,4 +40,4 @@ When your data is ready for modelling, you should train a machine learning model
 ### Evaluate model and present findings
 After training your model, you should evaluate how well it performed by conducting cross-validation and outputting appropriate evaluation metrics. Furthermore, you should create a visualisation to interpret how each variable contributed to the model. Finally, you should summarise your findings in a single slide to be sent to your manager. Use the “PowerPoint Template” provided in the Resources section below to create your summary and make use of the links provided to help with this task.
 
-![task 2][BA_Task_2/Task2.jpg]
+![task 2](BA_Task_2/Task2.jpg)
