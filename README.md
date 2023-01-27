@@ -1,3 +1,5 @@
+![Certificate of Completion](British Airways Data Science Certificate.jpg)
+
 # Web Scraping To Gain Company Insights
 Data Science Virtual Internship Project. 
 
